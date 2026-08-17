@@ -1,6 +1,6 @@
 # FreelanceHub
 
-FreelanceHub is a full-stack freelancer marketplace built with Next.js 14 App Router, MongoDB Atlas, NextAuth.js, Socket.io, Razorpay, and Tailwind CSS.
+FreelanceHub is a full-stack freelancer marketplace built with Next.js 14 App Router, NextAuth.js, Socket.io, and Tailwind CSS.
 
 ## Setup
 
@@ -33,8 +33,6 @@ npm run dev
 - `MONGODB_URI`
 - `NEXTAUTH_SECRET`
 - `NEXTAUTH_URL`
-- `RAZORPAY_KEY_ID`
-- `RAZORPAY_KEY_SECRET`
 - `OPENAI_API_KEY`
 - `OPENAI_MODEL`
 - `ADMIN_INVITE_CODE`
